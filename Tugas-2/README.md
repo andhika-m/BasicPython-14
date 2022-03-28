@@ -1,6 +1,6 @@
 ## SS
 Menu 1, untuk melihat kontak.
-![ss1](https://user-images.githubusercontent.com/73403861/160348587-93c6b0be-6f77-47a0-b28c-05354f5c8723.png)
+![ss1](https://user-images.githubusercontent.com/73403861/160348587-93c6b0be-6f77-47a0-b28c-05354f5c8723.png | width=100)
 
 Menu 2, menambahkan kontak sekaligus dapat melihat kontak.
 ![ss2](https://user-images.githubusercontent.com/73403861/160348590-7f29454a-e5a4-4236-ac4c-c8782957266b.png)
